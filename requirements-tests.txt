@@ -66,7 +66,7 @@ pytest==5.3.1
 pytest-cov==2.8.1
 python-coveralls==2.9.1
 python-json-logger==0.1.11
-PyYAML==5.2b1
+PyYAML==5.4
 readme-renderer==24.0
 requests==2.22.0
 requests-mock==1.7.0
